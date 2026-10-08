@@ -1,0 +1,14 @@
+[project]
+name = "coupledInitialization"
+version = "0.1.0"
+description = "Coupled noise initialization for diverse generation in ComfyUI."
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/jjia131/ComfyUI-CoupledInitialization"
+
+[tool.comfy]
+PublisherId = "jjia-momo"
+DisplayName = "Coupled Initialization"

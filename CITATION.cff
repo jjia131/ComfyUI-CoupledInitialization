@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use Coupled Initialization in research, please cite Couple to Control and Antithetic Noise in Diffusion Models; BibTeX entries for both are in README.md."
+title: "Coupled Initialization: Coupled noise initialization for diverse generation"
+type: software
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: Jia
+    given-names: Jing
+    website: "https://jjia131.github.io/"
+  - family-names: Shen
+    given-names: Liyue
+    website: "https://liyueshen.engin.umich.edu/"
+  - family-names: Wang
+    given-names: Guanyang
+    website: "https://guanyangwang.github.io/"
+preferred-citation:
+  type: article
+  title: "Couple to Control: Joint Initial Noise Design in Diffusion Models"
+  authors:
+    - family-names: Jia
+      given-names: Jing
+      website: "https://jjia131.github.io/"
+    - family-names: Shen
+      given-names: Liyue
+      website: "https://liyueshen.engin.umich.edu/"
+    - family-names: Wang
+      given-names: Guanyang
+      website: "https://guanyangwang.github.io/"
+  year: 2026
+  doi: "10.48550/arXiv.2605.11311"
+  url: "https://arxiv.org/abs/2605.11311"
+references:
+  - type: conference-paper
+    title: "Antithetic Noise in Diffusion Models"
+    authors:
+      - family-names: Jia
+        given-names: Jing
+        website: "https://jjia131.github.io/"
+      - family-names: Liu
+        given-names: Sifan
+      - family-names: Song
+        given-names: Bowen
+      - family-names: Yuan
+        given-names: Wei
+      - family-names: Shen
+        given-names: Liyue
+        website: "https://liyueshen.engin.umich.edu/"
+      - family-names: Wang
+        given-names: Guanyang
+        website: "https://guanyangwang.github.io/"
+    collection-title: "International Conference on Learning Representations"
+    year: 2026
+    url: "https://proceedings.iclr.cc/paper_files/paper/2026/file/20b6b87ca17792337f414d948af7b0e8-Paper-Conference.pdf"
